@@ -9,7 +9,7 @@
     </div>
     <hr>
     <div>
-      This counter is: {{ oddOrEven }}
+      This counter is: {{ storeCounter.oddOrEven }}
     </div>
   </div>
 </template>
